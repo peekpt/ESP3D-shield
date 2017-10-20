@@ -73,7 +73,7 @@ U 1 1 59CE59F3
 P 2250 2650
 F 0 "AUX1" H 2300 2850 50  0000 C CNN
 F 1 "Conn_02x04_Odd_Even" H 2450 3050 50  0001 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x04_Pitch2.54mm" H 2250 2650 50  0001 C CNN
+F 2 "Connectors:IDC_Header_Straight_8pins" H 2250 2650 50  0001 C CNN
 F 3 "" H 2250 2650 50  0001 C CNN
 	1    2250 2650
 	-1   0    0    1   
