@@ -70,13 +70,13 @@ $EndComp
 $Comp
 L Conn_02x04_Odd_Even AUX1
 U 1 1 59CE59F3
-P 2150 2550
-F 0 "AUX1" H 2200 2750 50  0000 C CNN
-F 1 "Conn_02x04_Odd_Even" H 2350 2950 50  0001 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x04_Pitch2.54mm" H 2150 2550 50  0001 C CNN
-F 3 "" H 2150 2550 50  0001 C CNN
-	1    2150 2550
-	1    0    0    -1  
+P 2250 2650
+F 0 "AUX1" H 2300 2850 50  0000 C CNN
+F 1 "Conn_02x04_Odd_Even" H 2450 3050 50  0001 C CNN
+F 2 "Connectors:IDC_Header_Straight_8pins" H 2250 2650 50  0001 C CNN
+F 3 "" H 2250 2650 50  0001 C CNN
+	1    2250 2650
+	-1   0    0    1   
 $EndComp
 $Comp
 L BSS138 Q1
